@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.log-out {
+  color: #303150;
+  font-family: 'Roboto';
+  font-size: 14px;
+  border: none;
+  border-radius: 12px;
+  background-color: #f8fafc;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
